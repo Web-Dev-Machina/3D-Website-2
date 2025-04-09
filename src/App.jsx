@@ -15,7 +15,7 @@ const App = () => {
         </Routes>
       </Router>
     </main>
-  </>
+  </>;
 };
 
 export default App;
